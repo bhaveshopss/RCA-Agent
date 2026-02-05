@@ -1,0 +1,9 @@
+crewai
+boto3
+python-dotenv
+pydantic
+moto
+pytest
+langchain-google-genai
+fastapi
+uvicorn
